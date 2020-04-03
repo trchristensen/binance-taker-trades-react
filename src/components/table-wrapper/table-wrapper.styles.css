@@ -1,0 +1,11 @@
+span {
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+  display: inline-flex;
+  border: 1px solid;
+  padding: 0.5rem 2rem;
+}
+span:hover {
+  background-color: #fff;
+  color: #333;
+}

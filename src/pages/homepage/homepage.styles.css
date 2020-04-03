@@ -1,0 +1,9 @@
+.homepage {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1em 0;
+  background-color: #222c3c;
+  color: #e8e8e8;
+}

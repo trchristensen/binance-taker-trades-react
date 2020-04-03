@@ -1,0 +1,10 @@
+.sort-table table {
+  border: 1px solid;
+}
+.sort-table table thead {
+  border-bottom: 1px solid;
+}
+.sort-table table td {
+  border: 1px dotted;
+  padding: 5px;
+}
