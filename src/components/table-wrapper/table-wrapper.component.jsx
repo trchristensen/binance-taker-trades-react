@@ -62,7 +62,8 @@ class TableWrapper extends React.Component {
             1 Hour
           </span>
         </div>
-        <SortTable pairs={this.state.pairs} />
+        
+        {/* <SortTable pairs={this.state.pairs} /> */}
       </div>
     );
   }
